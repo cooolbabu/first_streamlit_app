@@ -1,6 +1,5 @@
 
 import streamlit;
-import emoji;
 
 streamlit.title("Hello World");
 
