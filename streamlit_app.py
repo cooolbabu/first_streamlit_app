@@ -20,5 +20,5 @@ my_fruit_list = my_fruit_list.set_index('Fruit')
 
 #streamlit.dataframe(fruits_to_show);
 
-streamlit.dataframe(fruits_to_list);
+streamlit.dataframe(my_fruit_list);
 
