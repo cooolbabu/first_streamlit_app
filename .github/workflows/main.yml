@@ -8,3 +8,9 @@ jobs:
         run: echo "Hello World!"
       - name: Print goodbye
         run: echo "Done - bye!"
+      - name: Multi-line commands
+      - run: |
+        echo "Here are multiline commands"
+        pwd
+        ls -al
+        
