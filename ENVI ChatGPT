@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T20:09:54.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="L4tPTblO4BxBcp6KcORI" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T20:13:12.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PtGqCrDqAbBbIXC91KXK" version="21.8.2" type="github">
   <diagram name="Page-1" id="AaNtIRpRc2M8V8ey4aFL">
     <mxGraphModel dx="1259" dy="2368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1681,8 +1681,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xT5EonzNEB9dADLonlv8-938" value="ENVI Tracking - Expiration" style="text;strokeColor=#d6b656;align=center;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-1680" width="300" height="30" as="geometry" />
+        <mxCell id="xT5EonzNEB9dADLonlv8-938" value="ENVI Inventory Tracking - Expiration dates" style="text;strokeColor=#d6b656;align=center;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-1680" width="450" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
